@@ -121,6 +121,10 @@ main{
     flex-grow: 0;
 }
 
+.brands__item:hover{
+    cursor: poiner;
+}
+
 .show-all-button{
     display: flex;
     align-items: center;
